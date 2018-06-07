@@ -14,7 +14,7 @@ display_board(board)
 board = [" "," "," "," ","X"," "," "," "," "]
 display_board(board)
 
-board = [" X "," X "," X "," "," "," "," "," "," "]
+board = ["O"," "," "," "," "," "," "," "," "]
 display_board(board)
 
 board = [" X "," X "," X "," "," "," "," "," "," "]
